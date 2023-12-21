@@ -2,8 +2,10 @@
 # do not push full aggregated data
 data/aggregate/
 
-#do not push transition files
+#do not push MDP files
 transitions/
+rewards/
+
 
 backup.bundle
 
